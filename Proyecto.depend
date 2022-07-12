@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657582262 source:/home/allam/C++/ProyectoLenguajes/main.cpp
+	<iostream>
+	<fstream>
+
